@@ -6,7 +6,7 @@
 * [Wikidot](http://www.wikidot.com/user:info/akarin-22c)
 
 ## 博客
-<https://yu22c.tk/>
+* <https://yu22c.tk/>
 
 ## 杂项
 * [Note.ms Wikidot 论坛](https://note-ms.wikidot.com/)
